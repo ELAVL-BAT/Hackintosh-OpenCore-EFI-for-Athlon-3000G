@@ -1,7 +1,7 @@
 # OpenCore EFI for AMD Athlon 3000G Hackintosh
 
 ![Hackintosh](https://img.shields.io/badge/Hackintosh-OpenCore-orange)
-![AMD Ryzen](https://img.shields.io/badge/CPU-AMD%20Athlon%203000G-red)
+![AMD Athlon](https://img.shields.io/badge/CPU-AMD%20Athlon%203000G-red)
 
 ## Hardware Configuration
 
@@ -32,6 +32,7 @@
 
 - Ensure your BIOS settings are optimized for macOS (disable Secure Boot, enable AHCI, etc.).
 - Use appropriate USB ports for installation (usually USB 2.0 ports work best).
+- I didn't use RestrictEvents Kext (i just needed MacOS to boot) so the processor will say "Intel i5" in the About Mac. So if you really need the cosmetic name (Maybe software limitations?) you could install RestrictEvents Kext for it.
 
 ## Troubleshooting
 
