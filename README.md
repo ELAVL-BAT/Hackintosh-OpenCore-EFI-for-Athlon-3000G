@@ -1,4 +1,4 @@
-# OpenCore EFI for AMD Ryzen 5700G Hackintosh
+# OpenCore EFI for AMD Athlon 3000G Hackintosh
 
 ![Hackintosh](https://img.shields.io/badge/Hackintosh-OpenCore-orange)
 ![AMD Ryzen](https://img.shields.io/badge/CPU-AMD%20Athlon%203000G-red)
